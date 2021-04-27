@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>rickyzhangca.github.io</id>
+    <title>Ricky's Blog</title>
+    <updated>2021-04-27T03:25:41.091Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="rickyzhangca.github.io"/>
+    <link rel="self" href="rickyzhangca.github.io/atom.xml"/>
+    <rights>All rights reserved 2021, Ricky's Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一个测试]]></title>
+        <id>https://rickyzhangca.github.io/zhe-shi-yi-ge-ce-shi</id>
+        <link href="https://rickyzhangca.github.io/zhe-shi-yi-ge-ce-shi"/>
+        <updated>2021-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一个测试
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个测试</p>
+]]></content>
+    </entry>
+</feed>
